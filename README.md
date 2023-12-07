@@ -15,7 +15,8 @@ Dress Up is a gamified ERC-1155 token contract that allows users to mint various
 
 ### Contract Address
 You can access and interact with a deployed version of DressUp contract here: 
-- DressUp contract: [0x2178dDa8024e5db67b3Ff483A82066c8A5788352](https://goerli.etherscan.io/address/0x2178dda8024e5db67b3ff483a82066c8a5788352)
+- DressUp contract: [0x2178dDa8024e5db67b3Ff483A82066c8A5788352](https://goerli.etherscan.io/address/0x2178dda8024e5db67b3ff483a82066c8a5788352).
+
 Please Note that this contract is deployed on Goerli and you'll need to switch your network and also have Goerli test tokens to interact with it.
 
 ## Functionality
